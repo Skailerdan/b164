@@ -78,6 +78,7 @@ header .header-content h1 {
 
 .lead{
 	font-weight: 600;
+	padding-left: 20px;
 }
 
 #aboutme img {
@@ -95,7 +96,7 @@ header .header-content h1 {
 }
 
 .jumbotron{
-	margin-top: 200px;
+	margin-top: 150px;
   	margin-right: 50px;
   	margin-left: 50px;
  
